@@ -1,11 +1,11 @@
 # Phishing para captura de senhas do Twitter
 Phishing para captura de senhas do Twitter
 
-#Ferramentas
+# Ferramentas
   - Kali Linux
   - setoolkit
 
-#Configurando o Phishing no Kali Linux
+# Configurando o Phishing no Kali Linux
  - Acesso root: sudo su
  - Iniciando o setoolkit: setoolkit
  - Tipo de ataque: Social-Engineering Attacks
@@ -15,4 +15,5 @@ Phishing para captura de senhas do Twitter
  - Obtendo o endereço da máquina: ifconfig
  - URL para clone: http://www.twitter.com
 
- - 
+# Resultado
+![captura](https://github.com/angelosil/cibersecurity-desafio-phishing/assets/2169334/cd35321f-de06-442c-a8a6-4fdcbc28a05f)
